@@ -1,0 +1,30 @@
+Exercice : Gestionnaire de Livres
+Imaginez que vous développiez un gestionnaire simple de livres. Vous devez créer deux classes :
+ une classe Livre pour représenter un livre, et une classe GestionnaireLivres pour effectuer diverses opérations sur une collection de livres.
+
+
+
+Classe Livre :
+
+Créez une classe Livre avec les propriétés suivantes :
+titre (String)
+auteur (String)
+anneePublication (int)
+Ajoutez un constructeur pour initialiser ces propriétés.
+Ajoutez des méthodes d'accès (getters) pour récupérer les informations du livre.
+Classe GestionnaireLivres :
+
+Créez une classe GestionnaireLivres qui contient une collection (par exemple, une liste) de livres.
+Ajoutez une méthode pour ajouter un livre à la collection.
+Ajoutez une méthode pour afficher tous les livres dans la collection.
+Ajoutez une méthode pour rechercher et afficher les livres d'un auteur spécifique.
+Ajoutez une méthode pour rechercher et afficher les livres publiés avant une année spécifique.
+Test du GestionnaireLivres :
+
+Créez une classe de test (TestGestionnaireLivres) avec une méthode main pour tester votre gestionnaire de livres.
+Ajoutez quelques livres à la collection.
+Affichez tous les livres.
+Effectuez quelques recherches par auteur et par année.
+Cet exercice vous permettra de pratiquer la création de classes, la gestion de collections,
+ l'implémentation de méthodes, ainsi que la manipulation de boucles et de conditions.
+  N'hésitez pas à personnaliser l'exercice en ajoutant des fonctionnalités supplémentaires si vous le souhaitez.
